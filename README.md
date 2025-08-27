@@ -17,13 +17,13 @@ Most of the work you'll see here comes from school and personal projects. Outsid
 
 ## 🌟 Top Repositories
 
-<a href="https://github.com/ameru/surge.on">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ameru&repo=surge.on&title_color=ffffff&text_color=c9cacc&icon_color=10d6ec&bg_color=1d1f21" />
+<a href="https://github.com/jerichofaderon/jerichofaderon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jerichofaderon&repo=jerichofaderon&title_color=ffffff&text_color=c9cacc&icon_color=10d6ec&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/ameru/karting-microgame-unity3D">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ameru&repo=karting-microgame-unity3D&title_color=ffffff&text_color=c9cacc&icon_color=10d6ec&bg_color=1d1f21" />
+<a href="https://github.com/jerichofaderon/MotorVehicleCollisions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jerichofaderon&repo=MotorVehicleCollisions&title_color=ffffff&text_color=c9cacc&icon_color=10d6ec&bg_color=1d1f21" />
 </a>    
 
 ## 🔧 Technologies & Tools
