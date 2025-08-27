@@ -4,7 +4,7 @@
 
 ###
 
-Most of the stuff on here is storage space for my class projects, but occasionally I'll be building a video game or working on a pro-bono software project to help support local small businesses. When I'm not coding, you'll probably catch me at a kickboxing class, taking aerial shots with my drone, or hoarding Talenti gelato at your nearest grocery store.
+Most of the work you'll see here comes from school and personal projects. Outside of coding, you'll probably catch me writing poetry, watching video essays on YouTube, or foraging through my fridge for snacks to gnaw on.
 
 ## 👩🏻‍💻 Character Stats
 
