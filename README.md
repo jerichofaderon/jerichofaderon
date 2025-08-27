@@ -1,4 +1,4 @@
-## Just some organized chaos in here—welcome! ✨
+## Welcome—just some organized chaos in here. ✨
 <img src="https://github.com/ameru/ameru/blob/main/assets/cat_typing.gif" width="400px">
 (me, probably as you're reading this)
 
