@@ -4,8 +4,6 @@ I'm Jericho, a software engineer based in New York City.
 
 I recently (2024) graduated from Lehman College where I studied computer science 💻
 
-Feel free to reach out to me: https://www.linkedin.com/in/jerichofaderon/
-
 ## GitHub Analytics
 
 <div align="center">
