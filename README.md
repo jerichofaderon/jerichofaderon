@@ -6,115 +6,362 @@ I recently (2024) graduated from Lehman College where I studied computer science
 
 Feel free to reach out to me: https://www.linkedin.com/in/jerichofaderon/
 
-
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Zane;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
-    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Zane%20Pearton&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Multi-Disciplinary%20Software%20Engineer%20|%20Data•Cloud•XR•AI" width="100%" />
 </div>
 
-<div align="center">
-    <h2>🚀 About Me</h2>
-<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>I'm a Software Engineering specialist at Accenture with Aus/EU citizenship, specializing in fusing software development with operations. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling.</p>
-</div>
-
-<div align="center">
-<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
+<!-- SOCIAL LINKS -->
 <div align="center">
   <a href="https://www.linkedin.com/in/zane-pearton">
-    <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://linktr.ee/zanepearton">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
+    <img src="https://img.shields.io/badge/-Linktree-%2339E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
-<a href="https://github.com/ZanePearton/ZanePearton" target="_blank">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+  <a href="https://dev.to/zanepearton">
+    <img src="https://img.shields.io/badge/-Dev.to-%230A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community"/>
+  </a>
+  <a href="https://github.com/ZanePearton/ZanePearton">
+    <img src="https://img.shields.io/badge/GitHub-Profile-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge&color=ff9500" alt="Profile Views" />
+</div>
+
+---
+
+## About Me
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Multi-disciplinary+engineer+with+expertise+across;data%2C+cloud%2C+DevOps%2C+and+immersive+technologies" alt="Typing SVG" />
+</div>
+
+Software Engineer with **Aus/EU citizenship**, specializing in multi-domain engineering solutions. I architect scalable data pipelines, deploy cloud-native applications, and create immersive XR experiences that push technological boundaries.
+
+**Current Focus:** Exploring AI-driven automation, cloud-native architectures, and next-generation XR interfaces.
+
+---
+
+## Technical Toolkit
+
+<div align="center">
+  
+### Core Specializations
+<img src="https://img.shields.io/badge/Cloud%20Architecture-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cloud Architecture" />
+<img src="https://img.shields.io/badge/Creative%20Coding-%23FF5733.svg?style=for-the-badge" alt="Creative Coding" />
+<img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/XR%20Development-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="XR Development" />
+<img src="https://img.shields.io/badge/Full%20Stack-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="Full Stack" />
+
+### Technology Stack
+<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+<img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+<img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+<img src="https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+<img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+
+
+</div>
+
+---
+
+## Domain Expertise
+
+<div align="center">
+
+### Data Engineering: ETL Pipelines • Data Analytics • ML Operations
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+
+### DevOps & Cloud: Infrastructure as Code • CI/CD • Orchestration 
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+### Software Development: Full-Stack Development • Web APIs • Real-time Systems
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### XR & Immersive Tech: Virtual Reality • Augmented Reality • 3D Visualization
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unreal-engine&logoColor=white)
+![WebXR](https://img.shields.io/badge/WebXR-FF6B35?style=flat-square&logo=webxr&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta_Quest-1C1E20?style=flat-square&logo=meta&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+
+### Architecture & Design: Architectural Visualization • 3D Modeling • CAD Design
+![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=flat-square&logo=autodesk&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds_Max-0696D7?style=flat-square&logo=autodesk&logoColor=white)
+![Maya](https://img.shields.io/badge/Maya-37A5CC?style=flat-square&logo=autodesk&logoColor=white)
+![Rhino](https://img.shields.io/badge/Rhino3D-801010?style=flat-square&logoColor=white)
+![Revit](https://img.shields.io/badge/Revit-0079C1?style=flat-square&logo=autodesk&logoColor=white)
+
+</div>
+
+---
+
+## Featured Projects
+
+### 3D Visualization & Architectural Rendering
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+#### **Altman House Kitchen Refurbishment**
+[![Kitchen Refurbishment](https://img.youtube.com/vi/vIdtdDMdP8Q/hqdefault.jpg)](https://www.youtube.com/watch?v=vIdtdDMdP8Q)
+
+Detailed visualization of a kitchen refurbishment project demonstrating photorealistic interior renderings with precise material textures, custom cabinetry, and realistic lighting.
+
+![Interior Design](https://img.shields.io/badge/Interior%20Design-%23FF5733.svg?style=flat-square)
+![3D Visualization](https://img.shields.io/badge/3D%20Visualization-%23990099.svg?style=flat-square)
+![Architectural Rendering](https://img.shields.io/badge/Architectural%20Rendering-%233399FF.svg?style=flat-square)
+
+</td>
+<td width="50%" align="center">
+
+#### **Interactive Architectural Visualization**
+[![Architectural Visualization](https://img.youtube.com/vi/l31bYgLR7p4/hqdefault.jpg)](https://www.youtube.com/watch?v=l31bYgLR7p4)
+
+Professional residential architecture visualization created in Unreal Engine showcasing photo-realistic environments with detailed interiors and dynamic lighting.
+
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=flat-square&logo=unreal-engine&logoColor=white)
+![3D Modeling](https://img.shields.io/badge/3D%20Modeling-%23FF7F50.svg?style=flat-square)
+![Real-time Rendering](https://img.shields.io/badge/Real--time%20Rendering-%233399FF.svg?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+### Creative Coding & Generative Art
+
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+
+#### **Erosion Simulation**
+<a href="https://zanepearton.github.io/projects/erosion.html" target="_blank">
+  <img src="https://zanepearton.github.io/js/ui/media/media-erosion.png" alt="Erosion Simulation" width="100%" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge" alt="Profile views" />
+
+Interactive 3D terrain erosion simulation demonstrating hydraulic erosion with real-time water flow and sediment deposition.
+
+![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=flat-square&logo=three.js&logoColor=white)
+![Hydraulic Erosion](https://img.shields.io/badge/Hydraulic%20Erosion-%2300A36C.svg?style=flat-square)
+
+[![Live Demo](https://img.shields.io/badge/🌊%20Live%20Demo-View%20Project-FF5733?style=for-the-badge)](https://zanepearton.github.io/projects/erosion.html)
+
+</td>
+<td width="33%" align="center">
+
+#### **Flocking Simulation**
+<a href="https://zanepearton.github.io/projects/flocking.html" target="_blank">
+  <img src="https://zanepearton.github.io/js/ui/media/media-flocking.png" alt="Flocking Simulation" width="100%" />
+</a>
+
+3D implementation of the Boids algorithm simulating natural flocking behaviors with separation, alignment, and cohesion.
+
+![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=flat-square&logo=three.js&logoColor=white)
+![Boids Algorithm](https://img.shields.io/badge/Boids%20Algorithm-%23990099.svg?style=flat-square)
+
+[![Live Demo](https://img.shields.io/badge/🐦%20Live%20Demo-View%20Project-FF5733?style=for-the-badge)](https://zanepearton.github.io/projects/flocking.html)
+
+</td>
+<td width="33%" align="center">
+
+#### **Edge Bundling**
+<a href="https://zanepearton.github.io/projects/edgebundling.html" target="_blank">
+  <img src="https://zanepearton.github.io/js/ui/media/media-edgebundling.png" alt="Edge Bundling" width="100%" />
+</a>
+
+Interactive 3D network visualization using force-directed edge bundling for elegant cluster visualization.
+
+![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=flat-square&logo=three.js&logoColor=white)
+![Network Analysis](https://img.shields.io/badge/Network%20Analysis-%233399FF.svg?style=flat-square)
+
+[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-View%20Project-FF5733?style=for-the-badge)](https://zanepearton.github.io/projects/edgebundling.html)
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+#### **Gyroid Visualization**
+<a href="https://zanepearton.github.io/projects/gyroid.html" target="_blank">
+  <img src="https://zanepearton.github.io/js/ui/media/media-gy.png" alt="Gyroid Visualization" width="100%" />
+</a>
+
+Real-time visualization of the Gyroid minimal surface using Marching Cubes algorithm in native JavaScript.
+
+![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=flat-square&logo=three.js&logoColor=white)
+![Marching Cubes](https://img.shields.io/badge/Marching%20Cubes-%23FF7F50.svg?style=flat-square)
+
+[![Live Demo](https://img.shields.io/badge/🌀%20Live%20Demo-View%20Project-FF5733?style=for-the-badge)](https://zanepearton.github.io/projects/gyroid.html)
+
+</td>
+<td width="33%" align="center">
+
+#### **Flow Fields**
+<a href="https://zanepearton.github.io/projects/flowfields.html" target="_blank">
+  <img src="https://zanepearton.github.io/js/ui/media/media-flowfields.png" alt="Flow Fields" width="100%" />
+</a>
+
+Immersive 3D flow field visualization simulating fluid-like particle motion using Perlin noise.
+
+![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=flat-square&logo=three.js&logoColor=white)
+![Perlin Noise](https://img.shields.io/badge/Perlin%20Noise-%23990099.svg?style=flat-square)
+
+[![Live Demo](https://img.shields.io/badge/💫%20Live%20Demo-View%20Project-FF5733?style=for-the-badge)](https://zanepearton.github.io/projects/flowfields.html)
+
+</td>
+<td width="33%" align="center">
+
+#### **Differential Growth**
+<a href="https://zanepearton.github.io/projects/edgegrowth.html" target="_blank">
+  <img src="https://zanepearton.github.io/js/ui/media/media-edge.png" alt="Edge Growth" width="100%" />
+</a>
+
+Interactive 3D differential mesh growth creating organic, emergent structures with adaptive curvature refinement.
+
+![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=flat-square&logo=three.js&logoColor=white)
+![Differential Growth](https://img.shields.io/badge/Differential%20Growth-%2300A36C.svg?style=flat-square)
+
+[![Live Demo](https://img.shields.io/badge/🌱%20Live%20Demo-View%20Project-FF5733?style=for-the-badge)](https://zanepearton.github.io/projects/edgegrowth.html)
+
+</td>
+</tr>
+</table>
+
+### Machine Learning & AI Projects
+
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+
+#### **McDeepNet**
+<a href="https://github.com/ZanePearton/McDeepNet" target="_blank">
+  <img src="https://github.com/ZanePearton/McDeepNet/blob/main/RecordIt-FEC16C29-55C7-4473-9F9D-430C821C0714.gif?raw=true" alt="McDeepNet Demo" width="100%" />
+</a>
+
+Machine Learning model trained on 20,000 McDonald's reviews using RNNs for sentiment analysis with real-time prediction capabilities.
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=flat-square)
+![RNN](https://img.shields.io/badge/RNN-%23990099.svg?style=flat-square)
+
+[![GitHub](https://img.shields.io/badge/📖%20Repository-View%20Code-121011?style=for-the-badge&logo=github)](https://github.com/ZanePearton/McDeepNet)
+
+</td>
+<td width="33%" align="center">
+
+####  **neuroSnake**
+<a href="https://zanepearton.github.io/projects/neurosnake.html" target="_blank">
+  <img src="https://zanepearton.github.io/js/ui/media/media-tf-snake.png" alt="Edge Growth" width="100%" />
+</a>
+
+An implementation of the classic Snake game powered by Machine Learning. The snake is trained to find food while avoiding collisions with its tail and boundaries.
+
+![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=flat-square&logo=three.js&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/🌱%20Live%20Demo-View%20Project-FF5733?style=for-the-badge)](https://zanepearton.github.io/projects/neurosnake.html)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Professional Certifications
+
+<div align="center">
+
+### Certification Portfolio
+[![Microsoft](https://img.shields.io/badge/Microsoft-8+_Certifications-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/zanepearton/)
+[![AWS](https://img.shields.io/badge/AWS-2+_Certifications-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
+[![GitLab](https://img.shields.io/badge/GitLab-8+_Certifications-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)
+[![Google](https://img.shields.io/badge/Google-3+_Certifications-4285F4?style=for-the-badge&logo=google&logoColor=white)](#)
+
+</div>
+
+### Microsoft Azure
+**Data Engineer Associate** • **Data Scientist Associate** • **AI Engineer Associate** • **AI Fundamentals** • **Data Fundamentals** • **Azure Fundamentals** • **Security & Identity** • **DevOps Solutions**
+
+### GitLab  
+**CI/CD Associate** • **Git Associate** • **Security Specialist** • **Project Management** • **Implementation Services** • **Services Engineer** • **Migration Services** • **GitLab CI**
+
+### AWS & Google Cloud
+**Cloud Practitioner** • **Generative AI** • **ML Foundations** • **Serverless Computing** • **LLM Introduction** • **Responsible AI**
+
+### Data Science & Security
+**OpenAI API Systems** • **Time Series ML** • **TensorFlow/OpenCV** • **Cisco Cybersecurity** • **Linux Essentials** • **Python PCEP** • **IBM Deep Learning** • **Containers/Kubernetes** • **COBOL Programming**
+
+<div align="center">
+  <p><i>A comprehensive collection of professional certifications validating expertise across cloud platforms, DevOps practices, AI, data science, and security domains.</i></p>
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanepearton&theme=github_dark" width="100%" />
 </div>
 
 <div align="center">
-  <h2>🚀 Github Commits</h2>
-    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
-  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+<table>
+<tr>
+<td align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zanepearton&theme=github_dark" />
+</td>
+<td align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zanepearton&theme=github_dark" />
+</td>
+<td align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zanepearton&theme=github_dark&utcOffset=10" />
+</td>
+</tr>
+</table>
 </div>
 
-<h2 align="center" class="section-heading">💻 Programming Languages</h2>
-<p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-  <img src="https://img.shields.io/badge/YAML-0A0A0A?style=for-the-badge" alt="YAML"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+---
+### Strategic Development Areas
 
-</div>
-<h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
-<p>In the dynamic realm of cloud computing, I am proficient in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:</p>
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
-</div>
-
-<h2 align="center" class="section-heading">🔧 Frameworks</h2>
-<p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> 
-</div>
-
-<h2 align="center" class="section-heading">👾 3D Modeling + VR + AR</h2>
-<p>In the immersive domains of 3D Modeling, Virtual Reality (VR), and Augmented Reality (AR), I apply my expertise to bring digital creations to life. Leveraging industry-leading tools, I sculpt, render, and animate with precision, while pioneering VR and AR experiences that bridge the gap between virtuality and reality.</p>
-<div align="center">
-  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <img src="https://img.shields.io/badge/3DS_Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="3DS Max"/>
-  <img src="https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Maya"/>
-  <img src="https://img.shields.io/badge/Rhino-801010?style=for-the-badge&logo=rhinoceros&logoColor=white" alt="Rhino"/>
-  <img src="https://img.shields.io/badge/MeshLab-FF4000?style=for-the-badge" alt="MeshLab"/>
-  <img src="https://img.shields.io/badge/ZBrush-5491F1?style=for-the-badge" alt="ZBrush"/>
-  <img src="https://img.shields.io/badge/Revit-FF9E0B?style=for-the-badge&logo=autodesk&logoColor=white" alt="Revit"/>
-  <img src="https://img.shields.io/badge/ArchiCAD-0081CF?style=for-the-badge" alt="ArchiCAD"/>
-  <img src="https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=oculus&logoColor=white" alt="Oculus"/>
-</div>
-
-<div align="center">
-<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
-<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
- <table align="center" width="100%" height="100%" >
-    <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=merko" alt="Zane's Contribution Streak"/></td>
-    </tr>
- </table>
-
- <table align="center" width="100%" height="100%" >
-    <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zanepearton&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-    </tr>
- </table>
-</div>
+```mermaid
+mindmap
+  root((2025 Focus))
+    Cloud Native
+      Serverless Architecture
+      Microservices Design
+      Infrastructure as Code
+      Container Orchestration
+    XR Innovation
+      WebXR Applications
+      Spatial Computing
+      Mixed Reality Interfaces
+      Real-time Rendering
+    AI Integration
+      Multimodal Systems
+      Reinforcement Learning
+      Edge AI Computing
+      Neural Architecture Search
+    Data Engineering
+      Real-time Pipelines
+      MLOps Platforms
+      Analytics Automation
+      Data Mesh Architecture
+```
