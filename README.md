@@ -7,7 +7,7 @@ I recently (2024) graduated from Lehman College where I studied computer science
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanepearton&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jerichofaderon&theme=github_dark" width="100%" />
 </div>
 
 <div align="center">
@@ -17,10 +17,10 @@ I recently (2024) graduated from Lehman College where I studied computer science
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jerichofaderon&theme=github_dark" />
 </td>
 <td align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zanepearton&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jerichofaderon&theme=github_dark" />
 </td>
 <td align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zanepearton&theme=github_dark&utcOffset=10" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jerichofaderon&theme=github_dark&utcOffset=10" />
 </td>
 </tr>
 </table>
