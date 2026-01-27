@@ -20,7 +20,7 @@ I recently (2024) graduated from Lehman College where I studied computer science
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jerichofaderon&theme=github_dark" />
 </td>
 <td align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zanepearton&theme=github_dark&utcOffset=10" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jerichofaderon&theme=github_dark&utcOffset=10" />
 </td>
 </tr>
 </table>
