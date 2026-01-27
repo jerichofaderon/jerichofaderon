@@ -2,7 +2,7 @@
 
 I'm Jericho, a software engineer based in New York City.
 
-I recently (2024) graduated from Lehman College where I studied computer science 💻
+I am from Lehman College where I study computer science 💻
 
 ## GitHub Analytics
 
