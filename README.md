@@ -14,7 +14,7 @@ I recently (2024) graduated from Lehman College where I studied computer science
 <table>
 <tr>
 <td align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zanepearton&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jerichofaderon&theme=github_dark" />
 </td>
 <td align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zanepearton&theme=github_dark" />
