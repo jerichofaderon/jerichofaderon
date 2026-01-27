@@ -1,3 +1,3 @@
-## Hello 
+## Hello there 
 
-My name is Jericho and I host a wide variety of code that I build here!
+I'm Jericho, a Software Engineer based in New York City. I recently (2024) graduated from Lehman College where I studied Computer Science.
