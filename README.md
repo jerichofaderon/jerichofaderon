@@ -1,3 +1,3 @@
 ## Hello 
 
-Beep boop, I write and commit code here.
+My name is Jericho and I host a wide variety of code that I build here!
