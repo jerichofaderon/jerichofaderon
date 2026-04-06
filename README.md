@@ -21,24 +21,15 @@ mindmap
     ((Languages))
       Python
       JavaScript
-      TypeScript
-      R
+      C++
+      Java
       SQL
-      Bash
-      PowerShell
     ((Frameworks))
       React
       Flask
       Django
-      FastAPI
       Express
-      Electron
       Next.js
-      Dash
-      R-Shiny
-      Streamlit
-      Pydantic
-      SQLAlchemy
     ((AI/ML))
     ((DevOps))
     ((Cloud))
