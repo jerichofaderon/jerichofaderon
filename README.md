@@ -1,16 +1,49 @@
-## Hi there 👋
+<h3 align="center">👋 Hi there, I'm Jericho Faderon</h3>
 
-<!--
-**jerichofaderon/jerichofaderon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/jerichofaderon/">LinkedIn</a>
+</p>
 
-Here are some ideas to get you started:
+---
+I'm a software engineer and product manager with a passion for building accessible websites and fostering inclusive developer communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My philosophy is simple: share what I know, stay curious, and create space for others to grow. I enjoy making technical concepts approachable—whether through blog posts, videos, talks, or open source contributions.
+
+Outside of tech, I enjoy photography, watching anime, and perfecting the art of baking brownies 🔥
+
+---
+
+### Tech Snapshot
+
+```mermaid
+mindmap
+  root((Skills))
+    ((Languages))
+      Python
+      JavaScript
+      TypeScript
+      R
+      SQL
+      Bash
+      PowerShell
+    ((Frameworks))
+      React
+      Flask
+      Django
+      FastAPI
+      Express
+      Electron
+      Next.js
+      Dash
+      R-Shiny
+      Streamlit
+      Pydantic
+      SQLAlchemy
+    ((AI/ML))
+    ((DevOps))
+    ((Cloud))
+      AWS
+```
+---
+
+Thanks for visiting! Let's build something awesome together.
