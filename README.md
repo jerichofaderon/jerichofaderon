@@ -46,4 +46,4 @@ mindmap
 ```
 ---
 
-Thanks for visiting! Let's build something awesome together.
+Thanks for visiting!✨ Let's build something awesome together.
