@@ -5,7 +5,7 @@
 </p>
 
 ---
-I'm a software engineer and product manager with a passion for building accessible websites and fostering inclusive developer communities.
+I'm a software engineer and product manager with a passion for transforming lines of code into something magical!
 
 My philosophy is simple: share what I know, stay curious, and create space for others to grow. I enjoy making technical concepts approachable—whether through blog posts, videos, talks, or open source contributions.
 
